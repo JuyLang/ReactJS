@@ -1,0 +1,3 @@
+useState là trạng thái của dữ liệu
+
+đơn giản hóa, dữ liệu thay đổi giao diện thay đổi

@@ -1,0 +1,7 @@
+reatcjs là một thư viện Hot
+
+reatcjs.org
+
+của Facebook
+
+họ muốn xây dựng một hệ sinh thái React

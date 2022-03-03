@@ -1,0 +1,60 @@
+.bodyTabUL{
+    width: 630px ;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.HearderTabUl{
+    display: flex;
+    justify-content: space-around;
+    color: violet;
+
+}
+.iconandHeader{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-top: 5px;
+}
+.fas{
+    font-size: 23px;
+    color: rgb(255, 192, 203);
+}
+.iconandHeader h4{
+    display: inline;
+    font-size: 26px;
+    font-weight: 500;
+    color: rgb(255, 153, 170);
+    margin-left: 8px;
+    opacity: 0.7;
+   
+}
+.contentTabul{
+    position: relative;
+    display: none;
+}
+.header-contentTabul{
+    font-size: 31px;
+    margin-bottom: 7px;
+}
+.text-contentTabul{
+    font-size: 18px;
+    text-align: justify;
+}
+.on{
+    display: block;
+}
+.line{
+    width: 45px;
+    background-color: rgba(255, 47, 127, 0.815);
+    height: 7px;
+    border-radius: 10px;
+    left: 0;
+}
+.active{
+    position: relative;
+    background-color: rgb(252, 223, 234);
+    border-radius: 3px;
+}

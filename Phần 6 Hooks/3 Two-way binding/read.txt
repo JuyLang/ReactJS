@@ -1,0 +1,4 @@
+Ràng buộc 1 chiều và 2 chiều
+
+1 chiều chỉ thay đổi giao diện 
+2 chiều thay đổi giao diện và data
